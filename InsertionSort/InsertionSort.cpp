@@ -70,3 +70,12 @@ cout << arr[j] << endl; // ouput ke layar
 }
 cout << endl; // output baris kosong
 }
+
+int main ()
+{
+input ();
+insertionSort();
+display();
+system("Pause");
+return 0;
+}
